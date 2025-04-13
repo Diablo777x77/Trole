@@ -1,1 +1,0 @@
-export function calculateDamage() { return Math.floor(Math.random() * 15) + 5; }
